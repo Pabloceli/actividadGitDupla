@@ -1,1 +1,1 @@
-actividadGitDupla.git
+actividadGitDupla
